@@ -10,7 +10,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
-    "outDir": "./dist-services",
+    "outDir": "./services",
     "moduleResolution": "node",
     "sourceMap": true
   },

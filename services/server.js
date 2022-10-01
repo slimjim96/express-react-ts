@@ -5,7 +5,7 @@ class Server {
     constructor(app) {
         this.app = app;
         this.app.get("/api", (req, res) => {
-            res.send("You have reached the API 1.134");
+            res.send("You have reached the API 1.21!");
         });
     }
     start(port) {

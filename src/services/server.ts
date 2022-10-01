@@ -8,7 +8,7 @@ export class Server {
     this.app = app;
 
     this.app.get("/api", (req: Request, res: Response): void => {
-      res.send("You have reached the API 1.0!");
+      res.send("You have reached the API 1.21!");
     })
   }
 
